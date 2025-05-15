@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Churn Prediction Project
 
 ## Overview
@@ -114,3 +115,6 @@ All model results and plots are saved in the project directory.
 ## 9. License
 
 This project is for educational and internal use at Lloyds Banking Group. 
+=======
+# customer-churn-prediction
+>>>>>>> 4a526ef5e7c09feaab7a6f252b21c7cee6b20a21
